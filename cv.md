@@ -16,4 +16,5 @@
 *My english level is B1.*
 >asdasdas
 
+![фото](C:\Users\Lenovo\Documents/Снимок.png "хуй")
 [ссылка на мой профиль](https://www.youtube.com/watch?v=syrGPPekLHQ)
