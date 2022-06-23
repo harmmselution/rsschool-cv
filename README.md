@@ -1,1 +1,1 @@
-# rsschool-cv
+https://harmmselution.github.io/rsschool-cv/cv
