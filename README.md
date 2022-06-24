@@ -1,1 +1,1 @@
-https://harmmselution.github.io/rsschool-cv/cv
+https://harmmselution.github.io/rsschool-cv/
