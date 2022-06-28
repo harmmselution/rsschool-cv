@@ -16,5 +16,5 @@
 *My english level is B1.*
 >asdasdas
 
-![фото](C:\Users\Lenovo\Documents/Снимок.png "хуй")
+![фото](https://funart.pro/uploads/posts/2021-04/1618672576_43-funart_pro-p-most-san-frantsisko-krasivie-mesta-foto-47.jpg "хуй")
 [ссылка на мой профиль](https://www.youtube.com/watch?v=syrGPPekLHQ)
